@@ -1,0 +1,9 @@
+protobuf
+gdown
+datasets
+transformers-stream-generator
+tiktoken
+datasets
+mpi4py-mpich
+scikit-learn
+torchmetrics
