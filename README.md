@@ -1,4 +1,13 @@
-# VLM-Uncertainty-Bench
+# Uncertainty-Aware Evaluation for Vision-Language Models
+
+
+
+<p align="center">
+  <img src="images/logo.png" width="50%" />
+  <p align="center">Two LLMs can achieve the same accuracy score but demonstrate different levels of uncertainty.</p>
+</p>
+
+
 
 ## Introduction
 
@@ -82,7 +91,7 @@ python -m make_tables --result_path 'full_result.json' --dir_to_write 'tables'
 
 ## Acknowledgement
 
-[LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench): approaches applied to LLm. Thanks for the authors for providing the framework.
+[LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench): conformal prediction applied to LLM. Thanks for the authors for providing the framework.
 
 
 ## Contact
