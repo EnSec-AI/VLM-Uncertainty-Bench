@@ -132,7 +132,14 @@ python -m make_tables --result_path 'full_result.json' --dir_to_write 'tables'
 ## Citation
 
 ```bibtex
-
+@misc{kostumov2024uncertaintyaware,
+      title={Uncertainty-Aware Evaluation for Vision-Language Models}, 
+      author={Vasily Kostumov and Bulat Nutfullin and Oleg Pilipenko and Eugene Ilyushin},
+      year={2024},
+      eprint={2402.14418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Acknowledgement
